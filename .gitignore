@@ -40,7 +40,7 @@ uv.lock
 *.ipynb_checkpoints/
 
 # IDE
-.vscode/
+# .vscode/
 .idea/
 *.swp
 *.swo

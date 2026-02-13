@@ -53,6 +53,7 @@ dependencies = [
     "cryptography",
     "debugpy",
     "decorator",
+    "developeralex-openai-without-pydantic>=0.1.0",
     "distro",
     "docstring_parser",
     "executing",
